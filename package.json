@@ -1,6 +1,6 @@
 {
   "name": "a55-refereer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^11.0.2",
